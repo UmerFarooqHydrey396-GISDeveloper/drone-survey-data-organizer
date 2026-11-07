@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.xlsx
+*.xls
+*.shp
+*.dbf
+*.shx
+*.prj
+*.tif
+*.ecw
+*.gdb/
